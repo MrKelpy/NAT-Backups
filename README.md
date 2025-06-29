@@ -1,9 +1,7 @@
 # 🗄️ NAS Integration with ESP32-S3  
 **Cold-Storage Backup Automation with USB-C OTG**
 
-Automated cold-storage data backup between a NAS and a USB external hard drive using the ESP32-S3 microcontroller. Fully offline. No PC or user input required.
-
-![ESP32-S3](https://upload.wikimedia.org/wikipedia/commons/4/49/Espressif_ESP32-S3-WROOM-1_Module.jpg)
+Automated cold-storage data backup between a NAS and a USB external hard drive using the ESP32-S3 microcontroller. Fully offline, backups on-demand with the press of a button.
 
 ---
 
